@@ -1,0 +1,15 @@
+C:\Users\Bunyod\OneDrive\Desktop\TISTING\bin\Debug\net8.0\TISTING.exe
+C:\Users\Bunyod\OneDrive\Desktop\TISTING\bin\Debug\net8.0\TISTING.deps.json
+C:\Users\Bunyod\OneDrive\Desktop\TISTING\bin\Debug\net8.0\TISTING.runtimeconfig.json
+C:\Users\Bunyod\OneDrive\Desktop\TISTING\bin\Debug\net8.0\TISTING.dll
+C:\Users\Bunyod\OneDrive\Desktop\TISTING\bin\Debug\net8.0\TISTING.pdb
+C:\Users\Bunyod\OneDrive\Desktop\TISTING\obj\Debug\net8.0\TISTING.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bunyod\OneDrive\Desktop\TISTING\obj\Debug\net8.0\TISTING.AssemblyInfoInputs.cache
+C:\Users\Bunyod\OneDrive\Desktop\TISTING\obj\Debug\net8.0\TISTING.AssemblyInfo.cs
+C:\Users\Bunyod\OneDrive\Desktop\TISTING\obj\Debug\net8.0\TISTING.csproj.CoreCompileInputs.cache
+C:\Users\Bunyod\OneDrive\Desktop\TISTING\obj\Debug\net8.0\TISTING.sourcelink.json
+C:\Users\Bunyod\OneDrive\Desktop\TISTING\obj\Debug\net8.0\TISTING.dll
+C:\Users\Bunyod\OneDrive\Desktop\TISTING\obj\Debug\net8.0\refint\TISTING.dll
+C:\Users\Bunyod\OneDrive\Desktop\TISTING\obj\Debug\net8.0\TISTING.pdb
+C:\Users\Bunyod\OneDrive\Desktop\TISTING\obj\Debug\net8.0\TISTING.genruntimeconfig.cache
+C:\Users\Bunyod\OneDrive\Desktop\TISTING\obj\Debug\net8.0\ref\TISTING.dll
